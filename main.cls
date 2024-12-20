@@ -20,7 +20,7 @@
 \def\department#1{\gdef\@department{#1}}
 \def\degree#1{\gdef\@degree{#1}}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\def\thesisdate#1{\gdef\datethesis{#1}}
+\def\dateReaserch#1{\gdef\dateReaserch{#1}}
 \newcommand{\firstsupervisor}[1]{\def\ffirstsupervisor{#1}}
 \newcommand{\secondsupervisor}[1]{\def\fsecondsupervisor{#1}}
 \newcommand{\firstadvisor}[1]{\def\ffirstadvisor{#1}}
@@ -32,7 +32,7 @@
 \def\fatitle#1{\gdef\ftitle{#1}}
 \def\keywords#1{\gdef\fkeywords{\noindent #1}}
 \def\fa-abstract#1{\gdef\ffa-abstract{#1}}
-\def\faculty#1{\gdef\@faculty{#1}}
+
 \def\subject#1{\gdef\fsubject{#1}}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \def\latintitle#1{\gdef\@latintitle{#1}}
@@ -65,11 +65,11 @@
 \vspace{-1cm}\centerline{{\includegraphics[height=3.8cm]{fa-logo}}}
 \vspace{-1cm}
 {\bf{\fontsize{16pt}{16pt}\selectfont موسسه رده بندی ایرانیان}\par
-\vspace{-1cm}\fontsize{16pt}{17pt}\selectfont\@faculty}\par
+\vspace{-1cm}\fontsize{16pt}{17pt}\selectfont}\par
 %\vskip 1.5cm
 {\fontsize{16pt}{14pt}\selectfont\bfseries
 \if@mscthesis
-واحد تحقیق و توسعه
+
 \vspace{-.8cm}
 
 \@department
@@ -136,7 +136,7 @@
 
 \vskip 6mm
 
-{\fontsize{16pt}{17pt}\selectfont \datethesis}
+{\fontsize{16pt}{17pt}\selectfont \dateReaserch}
 
 \end{titlepage}%
 \newpage
@@ -201,7 +201,7 @@
 \def\signature{\vspace{1cm}
 \begin{flushleft}
 {\nastaliq \scriptsize \fname\ \lname \\
-\datethesis}
+\dateReaserch}
 \end{flushleft}}
 
 \def\abstract{\subsection*{\abstractname}\small

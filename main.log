@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.17)  20 DEC 2024 17:38
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.17)  20 DEC 2024 18:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1069,19 +1069,19 @@ Package hyperref Info: Link coloring ON on input line 18.
 File: fa-logo.png Graphic file (type bmp)
 <fa-logo.png>
 LaTeX Font Info:    Font shape `TU/bnazanin.ttf(0)/b/n' will be
-(Font)              scaled to size 14.39996pt on input line 37.
+(Font)              scaled to size 14.39996pt on input line 23.
 LaTeX Font Info:    Font shape `TU/bnazanin.ttf(0)/b/n' will be
-(Font)              scaled to size 19.19995pt on input line 37.
+(Font)              scaled to size 19.19995pt on input line 23.
 LaTeX Font Info:    Font shape `TU/bnazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 19.19995pt on input line 37.
+(Font)              scaled to size 19.19995pt on input line 23.
 LaTeX Font Info:    Font shape `TU/bnazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 23.99994pt on input line 37.
+(Font)              scaled to size 23.99994pt on input line 23.
 LaTeX Font Info:    Font shape `TU/bnazanin.ttf(0)/b/n' will be
-(Font)              scaled to size 23.99994pt on input line 37.
+(Font)              scaled to size 23.99994pt on input line 23.
 LaTeX Font Info:    Font shape `TU/bnazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 21.59995pt on input line 37.
+(Font)              scaled to size 21.59995pt on input line 23.
 LaTeX Font Info:    Font shape `TU/bnazanin.ttf(0)/b/n' will be
-(Font)              scaled to size 21.59995pt on input line 37.
+(Font)              scaled to size 21.59995pt on input line 23.
  [1
 
 ]
@@ -1711,10 +1711,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 4176763BC863CBBE26B813037C749022;9255.
  ) 
 Here is how much of TeX's memory you used:
- 18668 strings out of 474772
- 370163 string characters out of 5761267
- 1933842 words of memory out of 5000000
- 40329 multiletter control sequences out of 15000+600000
+ 18665 strings out of 474772
+ 370140 string characters out of 5761267
+ 1934842 words of memory out of 5000000
+ 40326 multiletter control sequences out of 15000+600000
  567458 words of font info for 148 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,11n,110p,2401b,497s stack positions out of 10000i,1000n,20000p,200000b,200000s
