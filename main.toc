@@ -1,53 +1,63 @@
 \edef \SavedTocDepth {\the \value {tocdepth}}
 \setcounter {tocdepth}{-10}
-\contentsline {chapter}{فهرست تصاویر}{د}{section*.4}%
-\contentsline {chapter}{فهرست جداول}{ه}{section*.5}%
+\contentsline {chapter}{فهرست تصاویر}{د}{section*.1}%
+\contentsline {chapter}{فهرست جداول}{ه}{section*.2}%
 \par عنوان\hfill صفحه \par 
 \setcounter {tocdepth}{\SavedTocDepth }
-\contentsline {chapter}{\numberline {1}راهنمای استفاده از الگوی لاتک دانشگاه صنعتی امیرکبیر(پلی‌تکنیک تهران)}{1}{chapter.1}%
-\contentsline {section}{\numberline {1-1}مقدمه}{2}{section.1.1}%
-\contentsline {section}{\numberline {1-2}این همه فایل؟!}{2}{section.1.2}%
-\contentsline {section}{\numberline {1-3}از کجا شروع کنم؟}{3}{section.1.3}%
-\contentsline {section}{\numberline {1-4}مطالب پایان‌نامه را چطور بنویسم؟}{4}{section.1.4}%
-\contentsline {subsection}{\numberline {1-4-1}نوشتن فصل‌ها}{4}{subsection.1.4.1}%
-\contentsline {subsection}{\numberline {1-4-2}مراجع}{5}{subsection.1.4.2}%
-\contentsline {subsection}{\numberline {1-4-3}واژه‌نامه فارسی به انگلیسی و برعکس}{5}{subsection.1.4.3}%
-\contentsline {section}{\numberline {1-5}اگر سوالی داشتم، از کی بپرسم؟}{5}{section.1.5}%
-\contentsline {chapter}{\numberline {2}طریقه‌ی مرجع نویسی و واژه‌نامه‌}{6}{chapter.2}%
-\contentsline {section}{\numberline {2-1}طریقه‌ی مرجع نویسی}{7}{section.2.1}%
-\contentsline {subsection}{\numberline {2-1-1}بارگیری مراجع}{7}{subsection.2.1.1}%
-\contentsline {subsection}{\numberline {2-1-2}روش ارجاع در متن}{8}{subsection.2.1.2}%
-\contentsline {subsection}{\numberline {2-1-3}روش اجرای برنامه}{9}{subsection.2.1.3}%
-\contentsline {subsection}{\numberline {2-1-4}مراجع فارسی}{9}{subsection.2.1.4}%
-\contentsline {section}{\numberline {2-2}راهنمای واژه‌نامه}{9}{section.2.2}%
-\contentsline {section}{\numberline {2-3}ساخت نمایه}{10}{section.2.3}%
-\contentsline {subsection}{\numberline {2-3-1}ساخت نمایه}{10}{subsection.2.3.1}%
-\contentsline {chapter}{\numberline {3}نگارش صحيح}{11}{chapter.3}%
-\contentsline {section}{\numberline {3-1}مقدمه}{12}{section.3.1}%
-\contentsline {section}{\numberline {3-2}فارسی نویسی}{12}{section.3.2}%
-\contentsline {section}{\numberline {3-3}رعایت املای صحيح }{13}{section.3.3}%
-\contentsline {section}{\numberline {3-4}رعایت قواعد نشانه‌گذاری}{13}{section.3.4}%
-\contentsline {subsection}{\numberline {3-4-1}ويرگول}{13}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3-4-2}نقطه}{14}{subsection.3.4.2}%
-\contentsline {subsection}{\numberline {3-4-3}دونقطه}{14}{subsection.3.4.3}%
-\contentsline {subsection}{\numberline {3-4-4}گیومه}{14}{subsection.3.4.4}%
-\contentsline {subsection}{\numberline {3-4-5}نشانه پرسشی}{14}{subsection.3.4.5}%
-\contentsline {subsection}{\numberline {3-4-6}خط تیره}{15}{subsection.3.4.6}%
-\contentsline {subsection}{\numberline {3-4-7}پرانتز}{15}{subsection.3.4.7}%
-\contentsline {section}{\numberline {3-5}جدا یا سرهم نوشتن برخی کلمات}{15}{section.3.5}%
-\contentsline {chapter}{\numberline {4}مشخصات یک پایان نامه و گزارش علمی}{17}{chapter.4}%
-\contentsline {section}{\numberline {4-1}برخورداری از غنای علمی }{18}{section.4.1}%
-\contentsline {section}{\numberline {4-2}ارجاع به‌موقع و صحیح به منابع دیگر}{18}{section.4.2}%
-\contentsline {section}{\numberline {4-3}ساده‌نویسی }{18}{section.4.3}%
-\contentsline {section}{\numberline {4-4}وحدت موضوع}{19}{section.4.4}%
-\contentsline {section}{\numberline {4-5}اختصار}{19}{section.4.5}%
-\contentsline {section}{\numberline {4-6}رعایت نكات دستوري و نشانه‌گذاري}{19}{section.4.6}%
-\contentsline {section}{\numberline {4-7}توجه به معلومات ذهنی مخاطب}{19}{section.4.7}%
-\contentsline {section}{\numberline {4-8}رعایت مراحل اصولی نگارش}{19}{section.4.8}%
-\contentsline {chapter}{\numberline {5}جمع‌بندي و نتيجه‌گيري و پیشنهادات}{21}{chapter.5}%
-\contentsline {section}{\numberline {5-1}پیشنهادات}{22}{section.5.1}%
-\contentsline {chapter}{کتاب‌نامه}{23}{appendix*.6}%
-\contentsline {chapter}{پیوست}{24}{appendix*.7}%
-\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{25}{appendix*.9}%
-\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{27}{appendix*.10}%
+\contentsline {chapter}{\numberline {1}سوخت \lr {LNG}}{2}{chapter.1}%
+\contentsline {section}{\numberline {1-1}کلیات}{3}{section.1.1}%
+\contentsline {section}{\numberline {1-2}اثرات زیست محیطی و ایمنی}{4}{section.1.2}%
+\contentsline {subsection}{\numberline {1-2-1}تأثیرات مثبت}{4}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1-2-2}تأثیرات منفی}{4}{subsection.1.2.2}%
+\contentsline {section}{\numberline {1-3}تکنولوژی تولید}{4}{section.1.3}%
+\contentsline {subsection}{\numberline {1-3-1}مرحله اول، پیش تصفیه سازی}{4}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1-3-2}مرحله حذف هیدروکربن های سنگین}{5}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1-3-3}مرحله مایع سازی}{6}{subsection.1.3.3}%
+\contentsline {section}{\numberline {1-4}تکنولوژی استفاده در کشتی}{6}{section.1.4}%
+\contentsline {subsection}{\numberline {1-4-1}الزامات قانونی}{7}{subsection.1.4.1}%
+\contentsline {section}{\numberline {1-5}بررسی اقتصادی \lr {LNG}}{7}{section.1.5}%
+\contentsline {subsection}{\numberline {1-5-1}قیمت}{7}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1-5-2}هزینه‌های اولیه}{8}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1-5-3}هزینه‌های ثانویه (عملیاتی)}{8}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1-5-4}میزان تولید، زیرساخت‌ها و میزان دسترسی}{9}{subsection.1.5.4}%
+\contentsline {section}{\numberline {1-6}وضعیت ایران}{9}{section.1.6}%
+\contentsline {subsection}{\numberline {1-6-1}تاریخچه تولید \lr {LNG} در ایران}{9}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1-6-2}پیش بینی تقریبی از آینده}{10}{subsection.1.6.2}%
+\contentsline {section}{\numberline {1-7}نتیجه‌گیری}{11}{section.1.7}%
+\contentsline {chapter}{\numberline {2}سوخت \lr {LPG}}{12}{chapter.2}%
+\contentsline {section}{\numberline {2-1} مقدمه و اهمیت \lr {LPG} در حمل و نقل دریایی}{13}{section.2.1}%
+\contentsline {section}{\numberline {2-2}اثرات زیست محیطی}{15}{section.2.2}%
+\contentsline {section}{\numberline {2-3}تکنولوژی‌های مرتبط با \lr {LPG}}{15}{section.2.3}%
+\contentsline {subsection}{\numberline {2-3-1}تکنولوژی تولید}{15}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2-3-2}تکنولوژی استفاده در کشتی}{15}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2-3-3}ایمنی و الزامات فنی }{15}{subsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2-3-3-1}سنگینی نسبت به هوا}{15}{subsubsection.2.3.3.1}%
+\contentsline {subsubsection}{\numberline {2-3-3-2}مخلوط قابل اشتعال با هوا}{16}{subsubsection.2.3.3.2}%
+\contentsline {subsubsection}{\numberline {2-3-3-3}تأثیرات استنشاق در غلظت‌های بالا}{16}{subsubsection.2.3.3.3}%
+\contentsline {subsubsection}{\numberline {2-3-3-4}سوختگی‌های ناشی از مایع}{16}{subsubsection.2.3.3.4}%
+\contentsline {subsubsection}{\numberline {2-3-3-5}احتراق مخلوط بخار/هوا در اثر نشت}{16}{subsubsection.2.3.3.5}%
+\contentsline {subsubsection}{\numberline {2-3-3-6}خطرات مخازن خالی}{16}{subsubsection.2.3.3.6}%
+\contentsline {subsection}{\numberline {2-3-4}سیستم‌های ذخیره‌سازی و مدیریت \lr {LPG} در کشتی‌ها}{16}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2-3-5}ایمنی و الزامات فنی مرتبط با حمل }{17}{subsection.2.3.5}%
+\contentsline {subsubsection}{\numberline {2-3-5-1}مرحله قبل از سوخت‌گیری }{17}{subsubsection.2.3.5.1}%
+\contentsline {subsection}{\numberline {2-3-6}مرحله سوخت‌گیری}{18}{subsection.2.3.6}%
+\contentsline {subsection}{\numberline {2-3-7}پس‌از سوخت‌گیری}{19}{subsection.2.3.7}%
+\contentsline {section}{\numberline {2-4}الزامات قانونی}{19}{section.2.4}%
+\contentsline {subsection}{\numberline {2-4-1}کد \lr {IGC}}{19}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2-4-2}کد \lr {IGF}}{19}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2-4-3}استاندارد \lr {MSC.1/Circ.1666}}{20}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2-4-4}استاندارد \lr {MSC.1/Circ.1679}}{20}{subsection.2.4.4}%
+\contentsline {section}{\numberline {2-5}اقتصاد و بازار \lr {LPG}}{20}{section.2.5}%
+\contentsline {subsection}{\numberline {2-5-1}چرخه عمر}{20}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2-5-2}تجارت جهانی}{20}{subsection.2.5.2}%
+\contentsline {subsection}{\numberline {2-5-3}قیمت سوخت}{21}{subsection.2.5.3}%
+\contentsline {subsection}{\numberline {2-5-4}تأمین و نگهداری}{22}{subsection.2.5.4}%
+\contentsline {section}{\numberline {2-6}نتیجه‌گیری}{22}{section.2.6}%
+\contentsline {chapter}{\numberline {3}مقررات و استانداردها}{24}{chapter.3}%
+\contentsline {chapter}{\numberline {4}فصل چهارم}{25}{chapter.4}%
+\contentsline {chapter}{\numberline {5}پیشینه تحقیق}{26}{chapter.5}%
+\contentsline {chapter}{کتاب‌نامه}{28}{appendix*.3}%
+\contentsline {chapter}{پیوست}{29}{appendix*.4}%
+\contentsline {chapter}{واژه‌نامه‌ی فارسی به انگلیسی}{30}{appendix*.6}%
+\contentsline {chapter}{واژه‌نامه‌ی انگلیسی به فارسی}{31}{appendix*.7}%
 \contentsfinish 

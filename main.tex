@@ -13,28 +13,51 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% !TEX TS-program = XeLaTeX
 \documentclass[oneside,msc,12pt]{main}
+\usepackage{ragged2e}
+\newcommand\pd[2]{\displaystyle\frac{\partial #1}{\partial #2}}
+
+\usepackage[acronym]{glossaries}
+\usepackage{calc}
+%\usepackage{caption_2010-01-09}
+\usepackage{array}
+\usepackage{makecell}
+\usepackage{multirow}
+\usepackage{longtable}
+%\usepackage{graphicx}
+%\usepackage{array}
+\usepackage{rotating}
+
+\usepackage{lscape}
+\usepackage{pdflscape}
+\usepackage{wasysym}
+%\usepackage{arabicore}
+%\usepackage{caption_2019-09-01}
+\makeglossary
+\newacronym{co}{CO}{heavy-industrit-sd}
+%\usepackage{bit}
+%\usepackage{natbib}
+%\addbibresource{references.bib}
+\usepackage{forest}
+\usepackage{fontspec}
+
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,trees,calc}
 \input{commands}
+% for numbering subsubsections
+\setcounter{secnumdepth}{3}
+%to include subsubsections in the table of contents
+\setcounter{tocdepth}{3}
 
 \begin{document}
 \baselineskip=.75cm
 \linespread{1.75}
 \input{fa_title}
-% تاییدیه دفاع
-\input{taid}
-% چنانچه مایل به چاپ صفحات «تقدیم»، «نیایش» و «سپاس‌گزاری» در خروجی نیستید، خط‌های زیر را با گذاشتن ٪  در ابتدای آنها غیرفعال کنید.
-% پایان‌نامه خود را تقدیم کنید
-% نیایش خود را در فایل زیر بنویسید.
-\input{Chant}
-% سپاسگزاری را در فایل زیر بنویسید.
-\input{acknowledgement}
 % دستور زیر برای شماره گذاری صفحات قبل از فصل اول با حروف ابجد است.
 \pagenumbering{alph}
 %-----------------------------------------------------------------------------
 % فایل زیر دستورات مربوط به نمایش صفحات فهرست مطالب- فهرست اشکال و جداول است.
 \input{TOC-TOF-LOT}
-% در صورت تمایل می‌توانید با فعال کردن دستور بالا، لیست تصاویر را به  پایان‌نامه خود اضافه کنید.
 %-------------------------------------------------------------------------symbols(فهرست نمادها)
-% وجود لیست نمادها الزامیست.(لطفاً نمادهای خود را جایگذین نمادهای پیش‌فرض کنید.)
 \input{list-of-symbols}
 
 \pagenumbering{arabic}
@@ -45,6 +68,7 @@
 \include{chapter3}
 \include{chapter4}
 \include{chapter5}
+
 
 %--------------------------------------------------------------------------appendix( مراجع و پیوست ها)
 \chapterfont{\vspace*{-2em}\centering\LARGE}%
@@ -60,9 +84,6 @@
 \include{dicen2fa}
 %--------------------------------------------------------------------------index(نمایه)
 %اگر مایل به داشتن صفحه نمایه نیستید، خط زیر را غیر فعال کنید.
-\pagestyle{style7}
-\printindex
-\pagestyle{style7}
-\include{en-abstract}
-\input{en_title}
+
+
 \end{document}
