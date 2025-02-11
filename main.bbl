@@ -5,9 +5,19 @@
 
 \begin{LTRbibitems}
 \resetlatinfont
-\bibitem{LR_LPG}
-LR.
-\newblock {LR-Fuel for Thought LPG 2024 }.
+\bibitem{osmthome}
+https://osmthome.com/the-pros-and-cons-of-alternative fuels/.
+\newblock {The Pros and Cons of Alternative Fuels}, 2024.
+
+\end{LTRbibitems}
+
+\begin{LTRbibitems}
+\resetlatinfont
+\bibitem{Newes2023}
+https://www.autogasitalia.it/en/faq/gpl/what-is-the-impact-of-the-lpg-on-the
+  environment/.
+\newblock {Marine Alternative Fuel Pricing, Supply, and Demand Data Modeling
+  and Analysis}, 2023.
 
 \end{LTRbibitems}
 

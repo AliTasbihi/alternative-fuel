@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.17)  26 JAN 2025 08:44
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.12.17)  11 FEB 2025 09:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -847,6 +847,10 @@ File: tikzlibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: pgflibraryarrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \arrowsize=\dimen284
 ))
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryautomata.code.tex
+File: tikzlibraryautomata.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
 (c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
 brarytrees.code.tex
 File: tikzlibrarytrees.code.tex 2023-01-15 v3.1.10 (3.1.10)
@@ -1710,36 +1714,35 @@ Package amsthm Warning: Unknown theoremstyle `theorem' on input line 126.
 LaTeX Warning: Unused global option(s):
     [oneside,12pt].
 
-(./main.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux) (./chapter4.aux)
-(./chapter5.aux) (./appendix1.aux) (./dicfa2en.aux) (./dicen2fa.aux))
+(./main.aux (./chapter5.aux) (./appendix1.aux) (./dicfa2en.aux) (./dicen2fa.aux
+))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5
-1.
-
-(c:/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
+3.
+ (c:/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1775,7 +1778,7 @@ LaTeX Font Info:    ... okay on input line 51.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 51.
+Package hyperref Info: Link coloring ON on input line 53.
 (./main.out) (./main.out)
 \@outlinefile=\write7
 \openout7 = `main.out'.
@@ -1811,19 +1814,9 @@ LaTeX Font Info:    Font shape `TU/bnazanin.ttf(0)/b/n' will be
 (./main.toc
 LaTeX Font Info:    Font shape `TU/XNazanin.ttf(0)/b/n' will be
 (Font)              scaled to size 13.20007pt on input line 7.
-
-
-LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/b/n' undefined
-(Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 7
-.
-
-LaTeX Font Info:    Font shape `TU/TimesNewRoman.ttf(0)/m/n' will be
-(Font)              scaled to size 12.60004pt on input line 7.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman.ttf(0)/b/n' will be
-(Font)              scaled to size 12.60004pt on input line 7.
 LaTeX Font Info:    Trying to load font information for U+wasy on input line 7.
 
-(c:/texlive/2024/texmf-dist/tex/latex/wasysym/uwasy.fd
+ (c:/texlive/2024/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
 LaTeX Font Info:    Trying to load font information for U+msa on input line 7.
@@ -1869,22 +1862,13 @@ LaTeX Font Info:    Font shape `TU/XNazanin.ttf(0)/m/it' will be
 (Font)              scaled to size 8.80005pt on input line 7.
 LaTeX Font Info:    Font shape `TU/XNazanin.ttf(0)/m/it' will be
 (Font)              scaled to size 6.60004pt on input line 7.
-[2
-
-])
+)
 \tf@toc=\write8
 \openout8 = `main.toc'.
 
+ [2
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[3] (./main.lof)
+] (./main.lof)
 \tf@lof=\write9
 \openout9 = `main.lof'.
 
@@ -1897,7 +1881,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4
+[3
 
 ] (./main.lot)
 \tf@lot=\write10
@@ -1912,7 +1896,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[5
+[4
 
 ]) (./list-of-symbols.tex
 LaTeX Font Info:    Font shape `TU/bnazanin.ttf(0)/m/n' will be
@@ -1942,13 +1926,24 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[6
+[5
 
 
 ])
-\openout2 = `chapter1.aux'.
+\openout2 = `chapter5.aux'.
 
- (./chapter1.tex
+ (./chapter5.tex
+فصل 1.
+LaTeX Font Info:    Font shape `TU/bnazanin.ttf(0)/b/n' will be
+(Font)              scaled to size 29.85593pt on input line 1.
+LaTeX Font Info:    Font shape `TU/bnazanin.ttf(0)/b/n' will be
+(Font)              scaled to size 13.13995pt on input line 1.
+
+LaTeX Font Warning: Font shape `TU/BNaznnBd.ttf(0)/b/n' undefined
+(Font)              using `TU/BNaznnBd.ttf(0)/m/n' instead on input line 1.
+
+LaTeX Font Info:    Font shape `TU/BNaznnBd.ttf(0)/m/n' will be
+(Font)              scaled to size 32.84999pt on input line 1.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1959,20 +1954,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [1
 
+
 ]
-فصل 1.
-LaTeX Font Info:    Font shape `TU/bnazanin.ttf(0)/b/n' will be
-(Font)              scaled to size 29.85593pt on input line 3.
-LaTeX Font Info:    Font shape `TU/bnazanin.ttf(0)/b/n' will be
-(Font)              scaled to size 13.13995pt on input line 3.
-
-LaTeX Font Warning: Font shape `TU/BNaznnBd.ttf(0)/b/n' undefined
-(Font)              using `TU/BNaznnBd.ttf(0)/m/n' instead on input line 3.
-
-LaTeX Font Info:    Font shape `TU/BNaznnBd.ttf(0)/m/n' will be
-(Font)              scaled to size 32.84999pt on input line 3.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman.ttf(0)/b/n' will be
-(Font)              scaled to size 26.12407pt on input line 3.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1983,758 +1966,36 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2
 
-]
-LaTeX Font Info:    Font shape `TU/bnazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 20.73593pt on input line 4.
-LaTeX Font Info:    Font shape `TU/bnazanin.ttf(0)/b/n' will be
-(Font)              scaled to size 20.73593pt on input line 4.
-LaTeX Font Info:    Font shape `TU/XNazanin.ttf(0)/b/n' will be
-(Font)              scaled to size 19.0081pt on input line 4.
-
-Missing character: There is no   (U+00A0) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no   (U+00A0) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-LaTeX Font Info:    Font shape `TU/bnazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 11.99997pt on input line 6.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman.ttf(0)/m/n' will be
-(Font)              scaled to size 10.50003pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 11.00006pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 7.70004pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XNazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 5.50003pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XNazanin.ttf(0)/bx/n' in size <10> not avail
-able
-(Font)              Font shape `TU/XNazanin.ttf(0)/b/n' tried instead on input 
-line 6.
-LaTeX Font Info:    Font shape `TU/XNazanin.ttf(0)/b/n' will be
-(Font)              scaled to size 11.00006pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XNazanin.ttf(0)/bx/n' in size <7> not availa
-ble
-(Font)              Font shape `TU/XNazanin.ttf(0)/b/n' tried instead on input 
-line 6.
-LaTeX Font Info:    Font shape `TU/XNazanin.ttf(0)/b/n' will be
-(Font)              scaled to size 7.70004pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XNazanin.ttf(0)/bx/n' in size <5> not availa
-ble
-(Font)              Font shape `TU/XNazanin.ttf(0)/b/n' tried instead on input 
-line 6.
-LaTeX Font Info:    Font shape `TU/XNazanin.ttf(0)/b/n' will be
-(Font)              scaled to size 5.50003pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XNazanin.ttf(0)/m/it' will be
-(Font)              scaled to size 11.00006pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XNazanin.ttf(0)/m/it' will be
-(Font)              scaled to size 7.70004pt on input line 6.
-LaTeX Font Info:    Font shape `TU/XNazanin.ttf(0)/m/it' will be
-(Font)              scaled to size 5.50003pt on input line 6.
-LaTeX Font Info:    Font shape `TU/TimesNewRoman.ttf(0)/m/n' will be
-(Font)              scaled to size 7.35002pt on input line 6.
-Missing character: There is no   (U+00A0) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no   (U+00A0) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no   (U+00A0) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no   (U+00A0) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-LaTeX Font Info:    Font shape `TU/XNazanin.ttf(0)/m/it' will be
-(Font)              scaled to size 13.20007pt on input line 10.
-Missing character: There is no   (U+00A0) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no   (U+00A0) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no   (U+00A0) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no   (U+00A0) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no   (U+00A0) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no   (U+00A0) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no   (U+00A0) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no   (U+00A0) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no   (U+00A0) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no   (U+00A0) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-File: Figures/LNG/Fuel Type.png Graphic file (type bmp)
-<Figures/LNG/Fuel Type.png>
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[3]
-LaTeX Font Info:    Font shape `TU/bnazanin.ttf(0)/m/n' will be
-(Font)              scaled to size 17.27994pt on input line 25.
-LaTeX Font Info:    Font shape `TU/bnazanin.ttf(0)/b/n' will be
-(Font)              scaled to size 17.27994pt on input line 25.
-LaTeX Font Info:    Font shape `TU/XNazanin.ttf(0)/b/n' will be
-(Font)              scaled to size 15.84007pt on input line 25.
-
-Missing character: There is no   (U+00A0) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no   (U+00A0) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no   (U+00A0) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no   (U+00A0) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no   (U+00A0) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-File: Figures/LNG/technology.png Graphic file (type bmp)
-<Figures/LNG/technology.png>
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-Missing character: There is no   (U+00A0) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no   (U+00A0) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[4]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[5]
-Missing character: There is no   (U+00A0) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no   (U+00A0) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no   (U+00A0) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-File: Figures/LNG/using in Ship.png Graphic file (type bmp)
-<Figures/LNG/using in Ship.png>
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[6]
-LaTeX Font Info:    Font shape `TU/TimesNewRoman.ttf(0)/b/n' will be
-(Font)              scaled to size 18.14404pt on input line 97.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[7]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[8]
-LaTeX Font Info:    Font shape `TU/TimesNewRoman.ttf(0)/b/n' will be
-(Font)              scaled to size 15.12003pt on input line 113.
-
-Missing character: There is no   (U+00A0) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[9]
-Overfull \hbox (2.09013pt too wide) in paragraph at lines 118--119
-[][]\TU/bnazanin.ttf(0)/m/n/12 دهه \TU/XNazanin.ttf(0)/m/it/12 ۲۰۰۰\TU/bnazanin
-.ttf(0)/m/n/12 : چندین پروژه []\TU/TimesNewRoman.ttf(0)/b/n/12 LNG[] \TU/bnazan
-in.ttf(0)/m/n/12 با مشارکت شرکت‌های خارجی آغاز شد، اما هیچکدام به بهره‌برداری[]
-
- []
-
-File: Figures/LNG/conv.png Graphic file (type bmp)
-<Figures/LNG/conv.png>
-
-Overfull \hbox (128.03738pt too wide) in paragraph at lines 133--134
- [][][][][][] 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[10])
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[11]
-\openout2 = `chapter2.aux'.
-
- (./chapter2.tex
-فصل 2.
-LaTeX Font Info:    Font shape `TU/BNaznnBd.ttf(0)/b/n' will be
-(Font)              scaled to size 32.84999pt on input line 1.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[12
-
-
-
-
-]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[13]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[14]
-Underfull \hbox (badness 2644) in paragraph at lines 96--96
-[][]|\TU/bnazanin.ttf(0)/m/n/12 نسبت اندازه[]
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[15]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[16]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[17]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[18]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[19]
-File: Figures/LPG/supply-chain.png Graphic file (type bmp)
-<Figures/LPG/supply-chain.png>
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[20]
-File: Figures/LPG/future.png Graphic file (type bmp)
-<Figures/LPG/future.png>
-File: Figures/LPG/price.png Graphic file (type bmp)
-<Figures/LPG/price.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 280--310
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 280--310
-[][]
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[21]
-Missing character: There is no – (U+2013) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no L (U+004C) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no P (U+0050) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no G (U+0047) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no – (U+2013) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no L (U+004C) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no P (U+0050) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no G (U+0047) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no – (U+2013) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no I (U+0049) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no M (U+004D) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no O (U+004F) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[22]
-Missing character: There is no L (U+004C) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no P (U+0050) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no G (U+0047) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no – (U+2013) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no L (U+004C) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no P (U+0050) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no G (U+0047) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no – (U+2013) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no L (U+004C) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no P (U+0050) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no G (U+0047) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no L (U+004C) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no P (U+0050) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no G (U+0047) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no L (U+004C) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no P (U+0050) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no G (U+0047) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no – (U+2013) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no L (U+004C) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no P (U+0050) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no G (U+0047) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no – (U+2013) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no L (U+004C) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no P (U+0050) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no G (U+0047) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no L (U+004C) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no P (U+0050) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no G (U+0047) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-
-Overfull \hbox (8.48639pt too wide) in paragraph at lines 329--330
-[][]\TU/bnazanin.ttf(0)/m/n/12 تکنولوژی‌های موتوری برای LPG محدود است. به‌عنوان
- مثال، هنوز موتور دریایی چهارزمانه‌ای[]
- []
-
-Missing character: There is no – (U+2013) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no L (U+004C) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no P (U+0050) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no G (U+0047) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no b (U+0062) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no u (U+0075) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no n (U+006E) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no k (U+006B) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no e (U+0065) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no r (U+0072) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no i (U+0069) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no n (U+006E) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no g (U+0067) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no I (U+0049) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no M (U+004D) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no O (U+004F) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no – (U+2013) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no L (U+004C) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no P (U+0050) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no G (U+0047) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no L (U+004C) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no P (U+0050) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no G (U+0047) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no – (U+2013) in font [BNaznnBd.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no L (U+004C) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no P (U+0050) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no G (U+0047) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-)
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[23]
-\openout2 = `chapter3.aux'.
-
- (./chapter3.tex
-فصل 3.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[24
-
-
-
-
-])
-\openout2 = `chapter4.aux'.
-
- (./chapter4.tex
-فصل 4.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[25
-
-
-
-
-])
-\openout2 = `chapter5.aux'.
-
- (./chapter5.tex
-فصل 5.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[26
-
-
-
-
-]
-Missing character: There is no C (U+0043) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no o (U+006F) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no v (U+0076) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no e (U+0065) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no r (U+0072) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no t (U+0074) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no C (U+0043) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no h (U+0068) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no a (U+0061) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no n (U+006E) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no n (U+006E) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no e (U+0065) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no l (U+006C) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no L (U+004C) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no i (U+0069) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no n (U+006E) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no g (U+0067) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no u (U+0075) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no i (U+0069) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no s (U+0073) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no t (U+0074) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no i (U+0069) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no c (U+0063) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no S (U+0053) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no t (U+0074) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no e (U+0065) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no g (U+0067) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no a (U+0061) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no n (U+006E) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no o (U+006F) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no g (U+0067) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no r (U+0072) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no a (U+0061) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no p (U+0070) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no h (U+0068) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no y (U+0079) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no T (U+0054) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no e (U+0065) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no c (U+0063) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no h (U+0068) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no n (U+006E) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no i (U+0069) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no c (U+0063) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no a (U+0061) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no l (U+006C) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no I (U+0049) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no n (U+006E) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no f (U+0066) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no o (U+006F) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no r (U+0072) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no m (U+006D) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no a (U+0061) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no t (U+0074) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no i (U+0069) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no o (U+006F) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no n (U+006E) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no H (U+0048) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no i (U+0069) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no d (U+0064) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no i (U+0069) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no n (U+006E) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no g (U+0067) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no A (U+0041) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no n (U+006E) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no o (U+006F) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no n (U+006E) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no y (U+0079) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no m (U+006D) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no i (U+0069) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no t (U+0074) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no y (U+0079) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no C (U+0043) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no o (U+006F) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no p (U+0070) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no y (U+0079) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no r (U+0072) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no i (U+0069) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no g (U+0067) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no h (U+0068) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no t (U+0074) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no M (U+004D) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no a (U+0061) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no r (U+0072) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no k (U+006B) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no i (U+0069) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no n (U+006E) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-Missing character: There is no g (U+0067) in font [bnazanin.ttf]/OT:language=df
-lt;script=arab;mapping=persian-tex-text;!
-)
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[27] (./main.bbl
+]) (./main.bbl
 LaTeX Font Info:    Font shape `TU/bnazanin.ttf(0)/m/n' will be
 (Font)              scaled to size 29.85593pt on input line 4.
+LaTeX Font Info:    Font shape `TU/TimesNewRoman.ttf(0)/m/n' will be
+(Font)              scaled to size 12.60004pt on input line 7.
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
+[][]\TU/TimesNewRoman.ttf(0)/m/n/12 https://www.autogasitalia.it/en/faq/gpl/wha
+t-is-the-impact-of-the-lpg-on-the envi-[]
+ []
 
 
 LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/m/it' undefined
-(Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 1
+(Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 2
 9.
 
-) [28
+) [3
+
 
 
 
 ]
 \openout2 = `appendix1.aux'.
 
- (./appendix1.tex) [29
+ (./appendix1.tex
+LaTeX Font Info:    Font shape `TU/bnazanin.ttf(0)/m/n' will be
+(Font)              scaled to size 20.73593pt on input line 15.
+LaTeX Font Info:    Font shape `TU/bnazanin.ttf(0)/b/n' will be
+(Font)              scaled to size 20.73593pt on input line 15.
+) [4
 
 
 ]
@@ -2745,7 +2006,7 @@ Missing character: There is no p (U+0070) in font [bnazanin.ttf]/OT:language=df
 lt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no p (U+0070) in font [bnazanin.ttf]/OT:language=df
 lt;script=arab;mapping=persian-tex-text;!
-[30
+[5
 
 
 
@@ -2754,17 +2015,23 @@ lt;script=arab;mapping=persian-tex-text;!
 \openout2 = `dicen2fa.aux'.
 
  (./dicen2fa.tex
+
+LaTeX Font Warning: Font shape `TU/TimesNewRoman.ttf(0)/b/n' undefined
+(Font)              using `TU/TimesNewRoman.ttf(0)/m/n' instead on input line 9
+.
+
+LaTeX Font Info:    Font shape `TU/TimesNewRoman.ttf(0)/b/n' will be
+(Font)              scaled to size 12.60004pt on input line 9.
 Missing character: There is no p (U+0070) in font [bnazanin.ttf]/OT:language=df
 lt;script=arab;mapping=persian-tex-text;!
 Missing character: There is no p (U+0070) in font [bnazanin.ttf]/OT:language=df
 lt;script=arab;mapping=persian-tex-text;!
-) [31
+) [6
 
 
 
 
-] (./main.aux (./chapter1.aux) (./chapter2.aux) (./chapter3.aux)
-(./chapter4.aux) (./chapter5.aux) (./appendix1.aux) (./dicfa2en.aux)
+] (./main.aux (./chapter5.aux) (./appendix1.aux) (./dicfa2en.aux)
 (./dicen2fa.aux))
  ***********
 LaTeX2e <2023-11-01> patch level 1
@@ -2775,15 +2042,15 @@ L3 programming layer <2024-02-20>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 4A6294115C6596224DE6EC30F5B1C883;11372.
+(rerunfilecheck)             Checksum: 4F4EF85687756C9B3024CEA189FD9A41;1151.
  ) 
 Here is how much of TeX's memory you used:
- 44010 strings out of 474772
- 976325 string characters out of 5761267
- 1936842 words of memory out of 5000000
- 65252 multiletter control sequences out of 15000+600000
- 567285 words of font info for 139 fonts, out of 8000000 for 9000
+ 43693 strings out of 474772
+ 970007 string characters out of 5761267
+ 1925842 words of memory out of 5000000
+ 64989 multiletter control sequences out of 15000+600000
+ 564800 words of font info for 112 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 102i,13n,107p,2401b,702s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,11n,107p,2401b,667s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.pdf (38 pages).
+Output written on main.pdf (12 pages).
